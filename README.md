@@ -8,6 +8,8 @@ To run you will need to download the YOLO model weights yolov3.cfg (236 MB): htt
 
 Then: python video.py in console 
 
+ESC to exit
+
 The YOLO algorithm uses the COCO categories and training set included in the git and originally found here: http://cocodataset.org/#home
 
 I've been using Ayoosh Kathuria's blog https://blog.paperspace.com/author/ayoosh/ as a reference point for MY own learning. 
